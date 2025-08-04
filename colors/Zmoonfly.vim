@@ -32,3 +32,15 @@ else
 end
 
 set background=dark " moonfly is a dark theme
+hi Normal guibg=NONE ctermbg=NONE
+hi Normal       guibg=NONE ctermbg=NONE
+hi NormalNC     guibg=NONE
+hi SignColumn   guibg=NONE
+hi VertSplit    guibg=NONE
+hi StatusLine   guibg=NONE
+hi LineNr       guibg=NONE
+hi EndOfBuffer  guibg=NONE
+hi MsgArea      guibg=NONE
+hi Pmenu        guibg=NONE
+hi FloatBorder  guibg=NONE
+hi WinSeparator guibg=NONE
